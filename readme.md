@@ -25,3 +25,5 @@
 
 Image by Willian Justen de Vasconcellos on Unsplash
 https://unsplash.com/photos/jUCQRQeRs3k
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b1748968-a200-4d98-b0fc-1b5d3b43db68/deploy-status)](https://app.netlify.com/sites/html-starter-kit/deploys)
